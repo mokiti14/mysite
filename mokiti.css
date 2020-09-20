@@ -13,10 +13,10 @@ p {
     font-weight: 400;
 }
 .text-yellow {
-    color: 00FF00;
+    color:#00FF00;
     font-style:oblique;
 }
 .text-rgb-moki {
-    rgb(255,0,0);
+    color:rgb(255,0,0);
     text-decoration:underline;
 }
