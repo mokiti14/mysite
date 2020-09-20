@@ -7,10 +7,15 @@ p {
     font-weight : bold ;
 }
 
-#mokiti{ width : 1000% }
-
-.chiba{margin : 0 ;}
-.chiba-fruit{font-size: 1000%;}
+#mokiti{
+    width : 1000%
+}
+.chiba{
+    margin : 0 ;
+}
+.chiba-fruit{
+    font-size: 1000%;
+}
 .chiba-drag {
     padding : 0 ;
     font-size:xx-small
