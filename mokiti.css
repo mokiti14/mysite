@@ -7,3 +7,7 @@ p {
 
 .chiba{margin : 0 ;}
 .chiba-drag { padding : 0 ;}
+
+.text { color: blue}
+.text-yellow {color: 00FF00}
+.text-rgb-moki {rgb(255,0,0)}
