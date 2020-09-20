@@ -1,3 +1,7 @@
+html{
+    font-size: 73px;
+}
+
 p {
     color : red ;
     font-weight : bold ;
@@ -6,17 +10,24 @@ p {
 #mokiti{ width : 1000% }
 
 .chiba{margin : 0 ;}
-.chiba-drag { padding : 0 ;}
+.chiba-fruit{font-size: 1000%;}
+.chiba-drag {
+    padding : 0 ;
+    font-size:xx-small
+}
 
 .text {
     color: blue;
     font-weight: 400;
+    font-size : 223px;
 }
 .text-yellow {
     color:#00FF00;
     font-style:oblique;
+    font-size :2.1em
 }
 .text-rgb-moki {
     color:rgb(255,0,0);
     text-decoration:underline;
+    font-size: 3rem;
 }
