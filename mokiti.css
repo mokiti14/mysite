@@ -8,6 +8,15 @@ p {
 .chiba{margin : 0 ;}
 .chiba-drag { padding : 0 ;}
 
-.text { color: blue}
-.text-yellow {color: 00FF00}
-.text-rgb-moki {rgb(255,0,0)}
+.text {
+    color: blue;
+    font-weight: 400;
+}
+.text-yellow {
+    color: 00FF00;
+    font-style:oblique;
+}
+.text-rgb-moki {
+    rgb(255,0,0);
+    text-decoration:underline;
+}
