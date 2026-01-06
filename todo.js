@@ -40,7 +40,7 @@ function addTask() {
     }
     
     const task = {
-        id: Date.now(),
+        id: Date.now() + Math.random(),
         text: taskText,
         completed: false,
         createdAt: new Date().toLocaleString('ja-JP')
